@@ -1,15 +1,15 @@
-//  let ans=document.getElementById("ak");
-//  ans.add.Content="akram is here";
-//  let ak =document.createElement('p');
-//  let a=document.createTextNode("i am akram sulthan");
-//  ak.appendChild(a);
-//  ans.appendChild(ak);
-//easiest way to appendchild
-// ans.textContent="i am akram sulthan";
-// document.body.appendChild(ans);
-// function print(){
-//     ans.style.background="blue";
-// }
+ let ans=document.getElementById("ak");
+ ans.add.Content="akram is here";
+ let ak =document.createElement('p');
+ let a=document.createTextNode("i am akram sulthan");
+ ak.appendChild(a);
+ ans.appendChild(ak);
+easiest way to appendchild
+ans.textContent="i am akram sulthan";
+document.body.appendChild(ans);
+function print(){
+    ans.style.background="blue";
+}
 
 // ans.addEventListener('click',print);
 // ans.removeEventListener('click',print);
